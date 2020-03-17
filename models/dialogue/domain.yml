@@ -1,0 +1,54 @@
+%YAML 1.1
+---
+actions:
+- utter_greet
+- utter_bye
+- utter_unclear
+- utter_func_list
+- utter_thank
+- utter_ask_name
+- utter_ask_travel
+config:
+  store_entities_as_slots: true
+entities: []
+forms: []
+intents:
+- greet:
+    use_entities: true
+- thank:
+    use_entities: true
+- bye:
+    use_entities: true
+- ask_func_list:
+    use_entities: true
+- ask_name:
+    use_entities: true
+- ask_travel:
+    use_entities: true
+slots: {}
+templates:
+  utter_ask_name:
+  - text: Xin giới thiệu tui tên  ChatBot! Người ta hay gọi t là Bot thông minh, xinh
+      đẹp, giỏi giang nhất vũ trụ ạ! Quý khách cần trợ giúp gì ạ?
+  - text: Dạ thưa. Tên Tiếng Việt của em là Trợ lý ảo nhưng em thích gọi bằng tên
+      Tiếng Anh là  Bot cho nó sang!
+  utter_ask_travel:
+  - text: https://www.vntrip.vn/cam-nang/dia-diem-du-lich-can-tho-17752#1_Cho_noi_Cai_Rang
+      https://www.vntrip.vn/cam-nang/dia-diem-du-lich-can-tho-17752#3_Ben_Ninh_Kieu
+      https://www.vntrip.vn/cam-nang/dia-diem-du-lich-can-tho-17752#4_Lang_du_lich_My_Khanh
+      https://www.vntrip.vn/cam-nang/dia-diem-du-lich-can-tho-17752#2_Nha_co_Binh_Thuy
+      https://www.vntrip.vn/cam-nang/dia-diem-du-lich-can-tho-17752#5_Cau_Can_Tho
+      https://www.vntrip.vn/cam-nang/dia-diem-du-lich-can-tho-17752#11_Thien_vien_Truc_Lam_Phuong_Nam
+  utter_bye:
+  - text: Kính chào tạm biệt và mong sớm gặp lại quý khách!
+  - text: Kính chào tạm biệt và chúc quý khách một ngày tốt lành!
+  utter_func_list:
+  - text: 'Tui có thể làm được rất nhiều thứ: hát, đọc thơ, đọc chuyện,tra cứu thông
+      tin,và đặc biệt tui có thể trả lời các câu hỏi mà bạn đặt ra hay thắc mắc!'
+  utter_greet:
+  - text: Kính chào Quý khách!
+  utter_thank:
+  - text: Cảm ơn quý khách quá khen ah!
+  - text: Dạ không có gì, đó là trách nhiệm của em mà!
+  utter_unclear:
+  - text: 'Thưa quý khách, hiện tại tôi chưa hiểu được yêu cầu của Quý khách. '

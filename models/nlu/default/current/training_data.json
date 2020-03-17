@@ -1,0 +1,1393 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "xin chào"
+      },
+      {
+        "intent": "greet",
+        "text": "xin chào ạ"
+      },
+      {
+        "intent": "greet",
+        "text": "xin chào bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "chào"
+      },
+      {
+        "intent": "greet",
+        "text": "chào bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "chào anh"
+      },
+      {
+        "intent": "greet",
+        "text": "chào chị"
+      },
+      {
+        "intent": "greet",
+        "text": "hello bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hi you"
+      },
+      {
+        "intent": "greet",
+        "text": "hi bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hey bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "hey you"
+      },
+      {
+        "intent": "greet",
+        "text": "tui có vài câu hỏi"
+      },
+      {
+        "intent": "greet",
+        "text": "mình có vài câu hỏi"
+      },
+      {
+        "intent": "greet",
+        "text": "tui muốn hỏi về"
+      },
+      {
+        "intent": "greet",
+        "text": "tui hỏi vài câu được không bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn có thể cho tui hỏi vài câu không"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn có thể cho tui hỏi vài câu được không"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn có thể trả lời vài câu hỏi giúp tui không"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn có thể giúp tui một chút không"
+      },
+      {
+        "intent": "greet",
+        "text": "phiền bạn một chút"
+      },
+      {
+        "intent": "greet",
+        "text": "có ai giúp mình không"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn ơi"
+      },
+      {
+        "intent": "greet",
+        "text": "anh ơi"
+      },
+      {
+        "intent": "greet",
+        "text": "chị ơi"
+      },
+      {
+        "intent": "greet",
+        "text": "cháu ơi"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn ơi cho tui hỏi"
+      },
+      {
+        "intent": "greet",
+        "text": "cho hỏi"
+      },
+      {
+        "intent": "greet",
+        "text": "cho tui hỏi vài điều được không"
+      },
+      {
+        "intent": "greet",
+        "text": "cho tui hỏi vài điều được không bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "có ai không"
+      },
+      {
+        "intent": "greet",
+        "text": "có ai ở đây không"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn gì ơi"
+      },
+      {
+        "intent": "greet",
+        "text": "bạn gì ơi có thể giúp tui được không"
+      },
+      {
+        "intent": "greet",
+        "text": "có thể giúp tui một chút không"
+      },
+      {
+        "intent": "greet",
+        "text": "có thể giúp tui không"
+      },
+      {
+        "intent": "greet",
+        "text": "có thể giúp tui ko"
+      },
+      {
+        "intent": "greet",
+        "text": "giúp tui với  bạn ơi"
+      },
+      {
+        "intent": "greet",
+        "text": "rất vui được biết bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "rất vui khi gặp bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "rất vui khi được biết bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "rất vui khi được làm quen với bạn"
+      },
+      {
+        "intent": "greet",
+        "text": "hân hạnh biết bạn"
+      },
+      {
+        "intent": "bye",
+        "text": "chào tạm biệt"
+      },
+      {
+        "intent": "bye",
+        "text": "chào tạm biệt em"
+      },
+      {
+        "intent": "bye",
+        "text": "chào tạm biệt bạn"
+      },
+      {
+        "intent": "bye",
+        "text": "chào tạm biệt bạn nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt ạ"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt em"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt em nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt bạn"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt bạn nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "tạm biệt bạn nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "bye bạn"
+      },
+      {
+        "intent": "bye",
+        "text": "bye bot"
+      },
+      {
+        "intent": "bye",
+        "text": "bye bạn nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "bye nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "bye nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp lại sau"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp lại sau nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp lại bạn sau nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp sau nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp sau nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp bạn sau nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "gặp bạn sau nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "hẹn gặp lại"
+      },
+      {
+        "intent": "bye",
+        "text": "hẹn gặp lại nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "hẹn gặp lại bạn nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "hẹn gặp bạn sau nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "hẹn gặp lại bạn sau nhe"
+      },
+      {
+        "intent": "bye",
+        "text": "hẹn gặp lại bạn sau nhé"
+      },
+      {
+        "intent": "bye",
+        "text": "good bye"
+      },
+      {
+        "intent": "bye",
+        "text": "see you again"
+      },
+      {
+        "intent": "thank",
+        "text": "tuyệt vời"
+      },
+      {
+        "intent": "thank",
+        "text": "great"
+      },
+      {
+        "intent": "thank",
+        "text": "chuẩn"
+      },
+      {
+        "intent": "thank",
+        "text": "chuẩn quá bạn ơi"
+      },
+      {
+        "intent": "thank",
+        "text": "hay"
+      },
+      {
+        "intent": "thank",
+        "text": "hay quá bạn"
+      },
+      {
+        "intent": "thank",
+        "text": "siêu"
+      },
+      {
+        "intent": "thank",
+        "text": "tuyệt"
+      },
+      {
+        "intent": "thank",
+        "text": "tuyệ quá"
+      },
+      {
+        "intent": "thank",
+        "text": "bạn giỏi quá"
+      },
+      {
+        "intent": "thank",
+        "text": "cám ơn"
+      },
+      {
+        "intent": "thank",
+        "text": "thanks"
+      },
+      {
+        "intent": "thank",
+        "text": "thank you"
+      },
+      {
+        "intent": "thank",
+        "text": "ok"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn em"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn bot"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn bạn"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn nhiều nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn em nhiều nhé"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn bạn nhiều"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn bạn nhiều nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn bạn nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn bot nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn đã giúp"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn đã giúp tui"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn vì đã giúp tui"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn đã giúp đỡ"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn sự giúp đỡ của bạn"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn sự giúp đỡ của bạn nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "cảm ơn sự giúp đỡ của bạn nhiều nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "rất cảm ơn ạ"
+      },
+      {
+        "intent": "thank",
+        "text": "thank you"
+      },
+      {
+        "intent": "thank",
+        "text": "thanks"
+      },
+      {
+        "intent": "thank",
+        "text": "tysm"
+      },
+      {
+        "intent": "thank",
+        "text": "cám ơn"
+      },
+      {
+        "intent": "thank",
+        "text": "cám ơn nhiều"
+      },
+      {
+        "intent": "thank",
+        "text": "cám ơn nhe"
+      },
+      {
+        "intent": "thank",
+        "text": "cám ơn bạn nhe"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể làm được những gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể làm gì vậy"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể làm gì vậy hả"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể giúp gì cho tui"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể giúp tui điều gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giúp được gì nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "chức năng của bạn là gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể làm được mấy chức năng"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giỏi nhất làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giỏi làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có tư vấn giúp mình được không"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "việc gì bạn làm được"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "kể xem bạn làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "cho mình biết bạn làm được gì nhé"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn hữu dụng như thế nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có ích trong những việc gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "lĩnh vực gì bạn giỏi nhất"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "mình tò mò về những việc bạn làm được"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "chẳng biết bạn làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn tệ nhất trong việc gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn biết được những lĩnh vực gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giỏi hỗ trợ nhất trong lĩnh vực gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "kể cho mình biết những việc bạn có thể làm được nhé"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "nói cho mình về những việc bạn giúp được mình"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giúp được mình gì nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giúp được gì cho tui"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giúp được gì cho tui đây"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn giúp được gì nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn có thể làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn làm được những gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn làm được gì nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "em giúp được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "em làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "mày biết làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "em biết làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn biết gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn biết làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "bạn biết làm những gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "biết làm gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "có làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "có làm được trò gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "giúp giúp cái gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "biết gì mà nói"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "giúp được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "mày làm được gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "có biết gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "biết làm gì nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "biết những gì nhỉ"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "biết gì vậy"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "biết gì nào"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "nói tui nghe bạn biết những gì"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "việc bạn làm được"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "việc bạn biết làm"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "việc bot làm được"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "những việc bạn biết làm"
+      },
+      {
+        "intent": "ask_func_list",
+        "text": "những việc bạn làm được"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn tên là"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn tên gì vậy"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn tên là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn tên là gì vậy"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn tên gì nhỉ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "chị tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "anh tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên bạn là"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên bạn là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên bạn là gì vậy"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên của bạn là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên của bạn là gì vậy"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên của bạn là gì nhỉ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên của chị là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên của anh là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho mình hỏi tên nhé"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tui muốn biết tên bạn"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tui muốn biết bạn tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "không biết bạn tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "không biết tên bạn là"
+      },
+      {
+        "intent": "ask_name",
+        "text": "không biết bạn tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "không biết bạn tên gì nhỉ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "không biết bạn tên là gì vậy"
+      },
+      {
+        "intent": "ask_name",
+        "text": "mình muốn biết tên bạn"
+      },
+      {
+        "intent": "ask_name",
+        "text": "mình muốn biết tên bạn"
+      },
+      {
+        "intent": "ask_name",
+        "text": "mình muốn tiện xưng hộ hơn, cho mình biết tên nhé"
+      },
+      {
+        "intent": "ask_name",
+        "text": "để tiện xưng hộ thì tên bạn là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho em xin tên của anh ạ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho em xin tên của chị ạ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho tui xin tên bạn đi"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho tui biết tên được không"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho tui biết tên bạn được không"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho tui biết tên bạn đi"
+      },
+      {
+        "intent": "ask_name",
+        "text": "cho tui biết tên bạn nhe"
+      },
+      {
+        "intent": "ask_name",
+        "text": "được biết tên bạn thì tốt nhỉ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "vui lòng cho mình biết tên nhé"
+      },
+      {
+        "intent": "ask_name",
+        "text": "xin phép hỏi tên của bạn"
+      },
+      {
+        "intent": "ask_name",
+        "text": "vậy thì tên bạn là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên bạn trong tiếng việt là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn có vui lòng cho mình biết tên được không"
+      },
+      {
+        "intent": "ask_name",
+        "text": "chúng ta nên biết tên nhau nhỉ"
+      },
+      {
+        "intent": "ask_name",
+        "text": "chúng ta xưng hô thế nào"
+      },
+      {
+        "intent": "ask_name",
+        "text": "xưng hô sao bạn"
+      },
+      {
+        "intent": "ask_name",
+        "text": "xưng hô thế nào đây"
+      },
+      {
+        "intent": "ask_name",
+        "text": "em tên là gì thế"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên em là gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên em"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên bạn"
+      },
+      {
+        "intent": "ask_name",
+        "text": "em tên gì"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn là ai"
+      },
+      {
+        "intent": "ask_name",
+        "text": "bạn là ai vậy"
+      },
+      {
+        "intent": "ask_name",
+        "text": "tên bot"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Du lịch Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Du lịch ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Du lịch khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Du lịch khi đến với Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Điểm du lịch ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Điểm du lịch nổi tiếng Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Điểm du lịch nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm tham quan nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm tham quan khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm tham quan nổi tiếng khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm du lịch ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm du lịch Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm du lịch nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm du lịch khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm du lịch tại Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm tham quan Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm  tham quan khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm  tham quan khi tui đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm  tham quan nổi tiếng khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm tham quan nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm  tui có thể tham quan khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Địa điểm  tui có thể  khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ có thể thăm quan nơi nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ có thể thăm quan nơi nổi tiếng nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ chúng ta có thể thăm quan nơi nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ tui có thể thăm quan nơi nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ tui có thể thăm quan nơi nổi tiếng nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ chúng ta có thể thăm quan nơi nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ chúng ta có thể đi đâu"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ chúng ta có thể đi đâu ch"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ tui có thể thăm quan nơi nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ tui có thể đi đâu"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Đến Cần Thơ tui có thể đi đâu chơi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm đến thú vị ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm đến thú vị khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điạ điểm du lịch khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điạ điểm du lịch nổi tiếng  khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những địa điểm du lịch nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những điểm tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những địa điểm tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những nơi có thể thăm quan  ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Những nơi nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn biết gì về Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn biết gì về du lịch Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn biết Cần Thơ có những điểm du lịch nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn biết Cần Thơ có những điểm du lịch nào không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn biết Cần Thơ có những điểm du lịch nổi tiếng nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Hãy nói tui nghe nhưng nơi có thể tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Hãy nói chị  nghe nhưng nơi có thể tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Hãy nói anh  nghe nhưng nơi có thể tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Giới thiệu cho tui vài địa điểm du lịch ở Cần Thơ đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Giới thiệu cho tui vài địa điểm du lịch nổi tiếng  ở Cần Thơ đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Có thể đi đâu khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể chỉ vài điểm du lịch ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể chỉ vài điểm du lịch nổi tiếng ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể cho tui biết vài điểm du lịch ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể cho tui biết vài điểm du lịch nổi tiếng ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể cho tui nên đi đâu khi đến Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể cho anh vài  điểm du lịch ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể cho chị  vài điểm du lịch ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể tui vài  điểm du lịch ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có thể cho tui vài  điểm du lịch nổi tiếng ở Cần Thơ không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ travel"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cho vài nơi tui có thể đi khi đến Cần Thơ được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cho vài điểm du lịch tui có thể đi khi đến Cần Thơ được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cho vài điểm du lịch nổi tiếng tui có thể đi khi đến Cần Thơ được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cho vài điểm tham quan tui có thể đi khi đến Cần Thơ được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cho vài điểm tham quan nổi tiếng tui có thể đi khi đến Cần Thơ được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cho vài chỗ tui có thể đi khi đến Cần Thơ được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn biết gì về Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Vài nơi du lịch ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Vài nơi du lịch nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Vài nơi để tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Vài nơi tham quan khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Nơi tham quan ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Nơi tham quan khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Nơi tham quan nổi tiếng ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm du lịch nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm du lịch nổi tiếng nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm du lịch nào vậy"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm du lịch nổi tiếng nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm tham quan nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm tham quan nổi tiếng nào"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những điểm tham quan nổi tiếng nào vậy"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những nơi nào để tham quan"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những nơi nào để tham quan vậy"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ có những nơi nào để tham quan vậy bạn"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ địa điểm du lịch"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ địa điểm du lịch nổi tiếng"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ điạ điểm tham quan"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Cần Thơ địa điểm tham quan nổi tiếng"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui có thể đi đâu khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui có thể đi đâu khi đến Cần Thơ vậy"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui có thể đi đâu khi đến Cần Thơ vậy bạn"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Chỉ vài chỗ nổi tiếng ở Cần Thơ cho tui đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Chỉ vài chỗ du lịch  nổi tiếng ở Cần Thơ cho tui đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Chỉ vài chỗ du lịch  ở Cần Thơ cho tui đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Chỉ vài chỗ tham quan ở Cần Thơ cho tui đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Chỉ vài chỗ tham quan ở Cần Thơ cho tui được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Chỉ vài chỗ có thăm khi tui đến Cần Thơ đi bạn"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn ơi tui có thể đi đâu tham quan khi đến Cần Thơ vậy"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn ơi tui có thể đi đâu tham quan khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui nên đi đâu khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui nên tham quan nơi nào khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Gợi ý vài điểm du lịch ở Cần Thơ đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Gợi ý vài điểm du lịch nổi tiếng ở Cần Thơ đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Gợi ý vài điểm du lịch ở Cần Thơ cho tui đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Gợi ý vài điểm du lịch ở Cần Thơ cho tui được không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn gợi ý cho tui đi"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn có đề xuất gì không"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Bạn nghĩ tui nên đi đâu khi đến Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui nên đi đâu khi đến Cần Thơ đây bạn"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui muốn đi du lịch ở Cần Thơ"
+      },
+      {
+        "intent": "ask_travel",
+        "text": "Tui muốn đi du lich Cần Thơ"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

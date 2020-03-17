@@ -1,0 +1,362 @@
+
+## intent:greet
+- xin chào
+- xin chào ạ 
+- xin chào bạn 
+- chào 
+- chào bạn
+- chào anh 
+- chào chị 
+- hello bạn 
+- hello 
+- hi
+- hi you 
+- hi bạn 
+- hey
+- hey bạn
+- hey you 
+- tui có vài câu hỏi 
+- mình có vài câu hỏi
+- tui muốn hỏi về
+- tui hỏi vài câu được không bạn 
+- bạn có thể cho tui hỏi vài câu không 
+- bạn có thể cho tui hỏi vài câu được không 
+- bạn có thể trả lời vài câu hỏi giúp tui không 
+- bạn có thể giúp tui một chút không
+- phiền bạn một chút 
+- có ai giúp mình không
+- bạn ơi
+- anh ơi
+- chị ơi
+- cháu ơi
+- bạn ơi cho tui hỏi 
+- cho hỏi 
+- cho tui hỏi vài điều được không 
+- cho tui hỏi vài điều được không bạn 
+- có ai không 
+- có ai ở đây không
+- bạn gì ơi 
+- bạn gì ơi có thể giúp tui được không 
+- có thể giúp tui một chút không
+- có thể giúp tui không 
+- có thể giúp tui ko
+- giúp tui với  bạn ơi 
+- rất vui được biết bạn 
+- rất vui khi gặp bạn 
+- rất vui khi được biết bạn 
+- rất vui khi được làm quen với bạn 
+- hân hạnh biết bạn 
+
+ 
+## intent:bye
+- chào tạm biệt
+- chào tạm biệt em
+- chào tạm biệt bạn 
+- chào tạm biệt bạn nhe 
+- tạm biệt
+- tạm biệt ạ 
+- tạm biệt nhe
+- tạm biệt nhé 
+- tạm biệt em
+- tạm biệt em nhé
+- tạm biệt bạn 
+- tạm biệt bạn nhé
+- tạm biệt bạn nhe 
+- bye bạn
+- bye bot 
+- bye bạn nhe 
+- bye nhe 
+- bye nhé 
+- bye bye
+- gặp lại sau
+- gặp lại sau nhe 
+- gặp lại bạn sau nhe 
+- gặp sau nhe 
+- gặp sau nhé 
+- gặp bạn sau nhe 
+- gặp bạn sau nhé 
+- hẹn gặp lại
+- hẹn gặp lại nhe 
+- hẹn gặp lại bạn nhe
+- hẹn gặp bạn sau nhe 
+- hẹn gặp lại bạn sau nhe 
+- hẹn gặp lại bạn sau nhé 
+- good bye 
+- see you again 
+
+
+
+
+## intent:thank 
+- tuyệt vời 
+- great 
+- chuẩn
+- chuẩn quá bạn ơi 
+- hay 
+- hay quá bạn 
+- siêu
+- tuyệt 
+- tuyệ quá 
+- bạn giỏi quá 
+- cám ơn
+- thanks
+- thank you
+- ok
+- cảm ơn
+- cảm ơn em
+- cảm ơn bot 
+- cảm ơn bạn 
+- cảm ơn nhiều nhe 
+- cảm ơn em nhiều nhé
+- cảm ơn bạn nhiều 
+- cảm ơn bạn nhiều nhe
+- cảm ơn bạn nhe 
+- cảm ơn bot nhe 
+- cảm ơn đã giúp 
+- cảm ơn đã giúp tui 
+- cảm ơn vì đã giúp tui 
+- cảm ơn đã giúp đỡ
+- cảm ơn sự giúp đỡ của bạn 
+- cảm ơn sự giúp đỡ của bạn nhe 
+- cảm ơn sự giúp đỡ của bạn nhiều nhe 
+- rất cảm ơn ạ
+- thank you
+- thanks
+- tysm
+- cám ơn 
+- cám ơn nhiều
+- cám ơn nhe
+- cám ơn bạn nhe 
+
+## intent:ask_func_list
+- bạn có thể làm được những gì
+- bạn có thể làm gì vậy 
+- bạn có thể làm gì vậy hả 
+- bạn có thể giúp gì cho tui 
+- bạn có thể giúp tui điều gì 
+- bạn giúp được gì nào
+- chức năng của bạn là gì
+- bạn có thể làm được mấy chức năng
+- bạn giỏi nhất làm gì
+- bạn giỏi làm gì 
+- bạn có tư vấn giúp mình được không
+- việc gì bạn làm được
+- kể xem bạn làm được gì
+- cho mình biết bạn làm được gì nhé
+- bạn hữu dụng như thế nào
+- bạn có ích trong những việc gì
+- lĩnh vực gì bạn giỏi nhất
+- mình tò mò về những việc bạn làm được
+- chẳng biết bạn làm được gì
+- bạn tệ nhất trong việc gì
+- bạn biết được những lĩnh vực gì
+- bạn giỏi hỗ trợ nhất trong lĩnh vực gì
+- kể cho mình biết những việc bạn có thể làm được nhé
+- nói cho mình về những việc bạn giúp được mình
+- bạn giúp được mình gì nào
+- bạn giúp được gì cho tui 
+- bạn giúp được gì cho tui đây
+- bạn giúp được gì nào 
+- bạn có thể làm gì
+- bạn làm được những gì 
+- bạn làm được gì nào 
+- em giúp được gì
+- em làm được gì
+- mày biết làm gì
+- em biết làm gì
+- bạn biết gì 
+- bạn biết làm gì
+- bạn biết làm những gì 
+- biết làm gì
+- làm được gì 
+- có làm được gì 
+- có làm được trò gì 
+- giúp giúp cái gì
+- biết gì mà nói
+- làm được gì
+- giúp được gì
+- mày làm được gì
+- có biết gì 
+- biết làm gì nào 
+- biết những gì nhỉ 
+- biết gì vậy 
+- biết gì nào 
+- nói tui nghe bạn biết những gì 
+- việc bạn làm được 
+- việc bạn biết làm 
+- việc bot làm được
+- những việc bạn biết làm 
+- những việc bạn làm được 
+
+## intent:ask_name
+- bạn tên gì
+- bạn tên là 
+- bạn tên gì vậy 
+- bạn tên là gì 
+- bạn tên là gì vậy 
+- bạn tên gì nhỉ 
+- tên gì
+- chị tên gì
+- anh tên gì
+- tên bạn là 
+- tên bạn là gì 
+- tên bạn là gì vậy 
+- tên của bạn là gì
+- tên của bạn là gì vậy 
+- tên của bạn là gì nhỉ 
+- tên của chị là gì
+- tên của anh là gì
+- cho mình hỏi tên nhé
+- tui muốn biết tên bạn
+- tui muốn biết bạn tên gì 
+- không biết bạn tên gì 
+- không biết tên bạn là 
+- không biết bạn tên gì 
+- không biết bạn tên gì nhỉ 
+- không biết bạn tên là gì vậy 
+- mình muốn biết tên bạn
+- mình muốn biết tên bạn 
+- mình muốn tiện xưng hộ hơn, cho mình biết tên nhé
+- để tiện xưng hộ thì tên bạn là gì
+- cho em xin tên của anh ạ
+- cho em xin tên của chị ạ
+- cho tui xin tên bạn đi 
+- cho tui biết tên được không 
+- cho tui biết tên bạn được không 
+- cho tui biết tên bạn đi 
+- cho tui biết tên bạn nhe 
+- được biết tên bạn thì tốt nhỉ
+- vui lòng cho mình biết tên nhé
+- xin phép hỏi tên của bạn
+- vậy thì tên bạn là gì
+- tên bạn trong tiếng việt là gì
+- bạn có vui lòng cho mình biết tên được không
+- chúng ta nên biết tên nhau nhỉ 
+- chúng ta xưng hô thế nào 
+- xưng hô sao bạn 
+- xưng hô thế nào đây
+- em tên là gì thế
+- tên em là gì
+- tên em 
+- tên bạn 
+- em tên gì
+- bạn là ai
+- bạn là ai vậy 
+- tên bot 
+
+## intent:ask_travel 
+- Du lịch Cần Thơ
+- Du lịch ở Cần Thơ 
+- Du lịch khi đến Cần Thơ 
+- Du lịch khi đến với Cần Thơ 
+- Điểm du lịch ở Cần Thơ
+- Điểm du lịch nổi tiếng Cần Thơ
+- Điểm du lịch nổi tiếng ở Cần Thơ
+- Những điểm tham quan ở Cần Thơ
+- Những điểm tham quan nổi tiếng ở Cần Thơ
+- Những điểm tham quan khi đến Cần Thơ
+- Những điểm tham quan nổi tiếng khi đến Cần Thơ
+- Địa điểm du lịch ở Cần Thơ
+- Địa điểm du lịch Cần Thơ
+- Địa điểm du lịch nổi tiếng ở Cần Thơ
+- Địa điểm du lịch khi đến Cần Thơ
+- Địa điểm du lịch tại Cần Thơ
+- Địa điểm tham quan Cần Thơ
+- Địa điểm  tham quan khi đến Cần Thơ
+- Địa điểm  tham quan khi tui đến Cần Thơ
+- Địa điểm  tham quan nổi tiếng khi đến Cần Thơ
+- Địa điểm tham quan nổi tiếng ở Cần Thơ 
+- Địa điểm  tui có thể tham quan khi đến Cần Thơ 
+- Địa điểm  tui có thể  khi đến Cần Thơ
+- Đến Cần Thơ có thể thăm quan nơi nào
+- Đến Cần Thơ có thể thăm quan nơi nổi tiếng nào
+- Đến Cần Thơ chúng ta có thể thăm quan nơi nào
+- Đến Cần Thơ tui có thể thăm quan nơi nào
+- Đến Cần Thơ tui có thể thăm quan nơi nổi tiếng nào
+- Đến Cần Thơ chúng ta có thể thăm quan nơi nào
+- Đến Cần Thơ chúng ta có thể đi đâu
+- Đến Cần Thơ chúng ta có thể đi đâu ch
+- Đến Cần Thơ tui có thể thăm quan nơi nào 
+- Đến Cần Thơ tui có thể đi đâu 
+- Đến Cần Thơ tui có thể đi đâu chơi 
+- Những điểm đến thú vị ở Cần Thơ
+- Những điểm đến thú vị khi đến Cần Thơ 
+- Những điạ điểm du lịch khi đến Cần Thơ 
+- Những điạ điểm du lịch nổi tiếng  khi đến Cần Thơ
+- Những địa điểm du lịch nổi tiếng ở Cần Thơ 
+- Những điểm tham quan ở Cần Thơ
+- Những địa điểm tham quan ở Cần Thơ
+- Những nơi có thể thăm quan  ở Cần Thơ
+- Những nơi nổi tiếng ở Cần Thơ 
+- Bạn biết gì về Cần Thơ 
+- Bạn biết gì về du lịch Cần Thơ
+- Bạn biết Cần Thơ có những điểm du lịch nào 
+- Bạn biết Cần Thơ có những điểm du lịch nào không
+- Bạn biết Cần Thơ có những điểm du lịch nổi tiếng nào
+- Hãy nói tui nghe nhưng nơi có thể tham quan ở Cần Thơ 
+- Hãy nói chị  nghe nhưng nơi có thể tham quan ở Cần Thơ 
+- Hãy nói anh  nghe nhưng nơi có thể tham quan ở Cần Thơ 
+- Giới thiệu cho tui vài địa điểm du lịch ở Cần Thơ đi
+- Giới thiệu cho tui vài địa điểm du lịch nổi tiếng  ở Cần Thơ đi
+- Có thể đi đâu khi đến Cần Thơ
+- Bạn có thể chỉ vài điểm du lịch ở Cần Thơ không
+- Bạn có thể chỉ vài điểm du lịch nổi tiếng ở Cần Thơ không
+- Bạn có thể cho tui biết vài điểm du lịch ở Cần Thơ không 
+- Bạn có thể cho tui biết vài điểm du lịch nổi tiếng ở Cần Thơ không 
+- Bạn có thể cho tui nên đi đâu khi đến Cần Thơ không
+- Bạn có thể cho anh vài  điểm du lịch ở Cần Thơ không
+- Bạn có thể cho chị  vài điểm du lịch ở Cần Thơ không
+- Bạn có thể tui vài  điểm du lịch ở Cần Thơ không
+- Bạn có thể cho tui vài  điểm du lịch nổi tiếng ở Cần Thơ không
+- Cần Thơ travel
+- Cho vài nơi tui có thể đi khi đến Cần Thơ được không 
+- Cho vài điểm du lịch tui có thể đi khi đến Cần Thơ được không
+- Cho vài điểm du lịch nổi tiếng tui có thể đi khi đến Cần Thơ được không
+- Cho vài điểm tham quan tui có thể đi khi đến Cần Thơ được không
+- Cho vài điểm tham quan nổi tiếng tui có thể đi khi đến Cần Thơ được không 
+- Cho vài chỗ tui có thể đi khi đến Cần Thơ được không 
+- Bạn biết gì về Cần Thơ
+- Vài nơi du lịch ở Cần Thơ
+- Vài nơi du lịch nổi tiếng ở Cần Thơ
+- Vài nơi để tham quan ở Cần Thơ 
+- Vài nơi tham quan khi đến Cần Thơ 
+- Nơi tham quan ở Cần Thơ
+- Nơi tham quan khi đến Cần Thơ
+- Nơi tham quan nổi tiếng ở Cần Thơ
+- Cần Thơ có những điểm du lịch nào 
+- Cần Thơ có những điểm du lịch nổi tiếng nào 
+- Cần Thơ có những điểm du lịch nào vậy 
+- Cần Thơ có những điểm du lịch nổi tiếng nào 
+- Cần Thơ có những điểm tham quan nào 
+- Cần Thơ có những điểm tham quan nổi tiếng nào 
+- Cần Thơ có những điểm tham quan nổi tiếng nào vậy 
+- Cần Thơ có những nơi nào để tham quan 
+- Cần Thơ có những nơi nào để tham quan vậy 
+- Cần Thơ có những nơi nào để tham quan vậy bạn 
+- Cần Thơ địa điểm du lịch
+- Cần Thơ địa điểm du lịch nổi tiếng 
+- Cần Thơ điạ điểm tham quan
+- Cần Thơ địa điểm tham quan nổi tiếng 
+- Tui có thể đi đâu khi đến Cần Thơ 
+- Tui có thể đi đâu khi đến Cần Thơ vậy 
+- Tui có thể đi đâu khi đến Cần Thơ vậy bạn 
+- Chỉ vài chỗ nổi tiếng ở Cần Thơ cho tui đi
+- Chỉ vài chỗ du lịch  nổi tiếng ở Cần Thơ cho tui đi
+- Chỉ vài chỗ du lịch  ở Cần Thơ cho tui đi 
+- Chỉ vài chỗ tham quan ở Cần Thơ cho tui đi 
+- Chỉ vài chỗ tham quan ở Cần Thơ cho tui được không 
+- Chỉ vài chỗ có thăm khi tui đến Cần Thơ đi bạn 
+- Bạn ơi tui có thể đi đâu tham quan khi đến Cần Thơ vậy 
+- Bạn ơi tui có thể đi đâu tham quan khi đến Cần Thơ 
+- Tui nên đi đâu khi đến Cần Thơ
+- Tui nên tham quan nơi nào khi đến Cần Thơ 
+- Gợi ý vài điểm du lịch ở Cần Thơ đi
+- Gợi ý vài điểm du lịch nổi tiếng ở Cần Thơ đi 
+- Gợi ý vài điểm du lịch ở Cần Thơ cho tui đi
+- Gợi ý vài điểm du lịch ở Cần Thơ cho tui được không 
+- Bạn gợi ý cho tui đi 
+- Bạn có đề xuất gì không 
+- Bạn nghĩ tui nên đi đâu khi đến Cần Thơ 
+- Tui nên đi đâu khi đến Cần Thơ đây bạn 
+- Tui muốn đi du lịch ở Cần Thơ 
+- Tui muốn đi du lich Cần Thơ 
